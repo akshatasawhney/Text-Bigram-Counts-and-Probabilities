@@ -1,7 +1,7 @@
 # Text Bigram Counts and Probabilities
  Python program to calculate bigram counts and probabilities using different smoothing techniques.
 
-##To run the program - 
+# To run the program - 
 1. Make sure python3.x is installed
 
 2. Library required - ujson
